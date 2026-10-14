@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "Cupid - Hẹn Hò & Kết Đôi",
+  "short_name": "Cupid",
+  "description": "Ứng dụng hẹn hò thế hệ mới: Khám phá đối tượng tương thích, vuốt ghép đôi thông minh, trò chuyện realtime và kết nối chân ái.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#09090b",
+  "theme_color": "#ff4458",
+  "icons": [
+    {
+      "src": "/cupid_logo.jpg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/cupid_logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "maskable"
+    }
+  ]
+}
